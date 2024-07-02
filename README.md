@@ -1,7 +1,8 @@
 
 ## Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=DevOps%2FBackend+Developer)](https://git.io/typing-svg)
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=DevOps%2FBackend+Junior+Developer" alt="Typing SVG" /></a>
+</div>
 
 <!--타이틀 부분-->
 <div align="center">
