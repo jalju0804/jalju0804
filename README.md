@@ -1,8 +1,8 @@
 
 ## Hi there 👋
-<div align="center">
+<h1>
     DevOps/Backend Junior Developer
-</div>
+</h1>
 
 <p>
    
