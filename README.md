@@ -1,4 +1,4 @@
-### <div align="center"> 배우고 싶은게 많은 주니어 개발자 </div>
+### <div align="center">🔥 배우고 싶은게 많은 주니어 개발자 🔥</div>
 
 <br>
 <div align="center">
