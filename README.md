@@ -40,7 +40,7 @@
 
   <br>
   
-  <h3 align="center">📚 Studying 📚</h3>
+  <h3 align="center">📚 Studying | Interesting 📚</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/openstack-ED1944.svg?style=for-the-badge&logo=openstack&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/ceph-EF5C55.svg?style=for-the-badge&logo=ceph&logoColor=white" />&nbsp
