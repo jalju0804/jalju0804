@@ -1,7 +1,9 @@
-<!--타이틀 부분-->
+<div align="center">
+     꾸준히라도 하자 
+</div>
+
 <div align="center">
   
-  <!--내용 부분-->
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
