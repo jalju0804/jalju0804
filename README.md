@@ -1,7 +1,7 @@
 <div align="center">
-     꾸준히라도 하자 
+     안녕하세요, DevOps 개발자를 꿈꾸는 이찬주라고 합니다.
 </div>
-
+<br>
 <div align="center">
   
   <h3 align="center">✨ Tech Stack ✨</h3>
