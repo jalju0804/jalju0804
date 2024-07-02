@@ -1,8 +1,8 @@
 
 ## Hi there 👋
-<h1>
+<div align="center">
     DevOps/Backend Junior Developer
-</h1>
+</div>
 
 <p>
    
@@ -10,18 +10,12 @@
 
 <!--타이틀 부분-->
 <div align="center">
-   </div>
   
   <!--내용 부분-->
   <h3 align="center">✨ Tech Stack ✨</h3>
   <div align="center">
     <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/k3s-FFC61C.svg?style=for-the-badge&logo=k3s&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/eks-FF9900.svg?style=for-the-badge&logo=amazoneks&logoColor=white" />&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/ec2-FF9900.svg?style=for-the-badge&logo=amazonec2&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/s3-569A31.svg?style=for-the-badge&logo=amazons3&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/route53-8C4FFF.svg?style=for-the-badge&logo=amazonroute53&logoColor=white" />&nbsp
     <br>
     <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />&nbsp
@@ -40,28 +34,6 @@
     <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp
-  </div>
-
-  <br>
-  
-  <h3 align="center">📚 Studying | Interesting 📚</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/openstack-ED1944.svg?style=for-the-badge&logo=openstack&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/ceph-EF5C55.svg?style=for-the-badge&logo=ceph&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/vault-FFEC6E.svg?style=for-the-badge&logo=vault&logoColor=black" />&nbsp
-    <img src="https://img.shields.io/badge/istio-466BB0.svg?style=for-the-badge&logo=istio&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/gocd-94399E.svg?style=for-the-badge&logo=gocd&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/elb-8C4FFF.svg?style=for-the-badge&logo=awselasticloadbalancing&logoColor=white" />&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/elasticsearch-005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/logstash-005571.svg?style=for-the-badge&logo=logstash&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/kibana-005571.svg?style=for-the-badge&logo=kibana&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/beats-005571.svg?style=for-the-badge&logo=beats&logoColor=white" />&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/ansible-EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />&nbsp
   </div>
   
   <br> 
