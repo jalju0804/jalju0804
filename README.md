@@ -22,7 +22,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/apachejmeter-D22128?style=flat-square&logo=springboot&logoColor=white" />&nbsp
   </div>
   
   <br> 
@@ -35,6 +35,7 @@
     <img src="https://img.shields.io/badge/react-61DAFB.svg?style=flat-square&logo=react&logoColor=black" />&nbsp
     <img src="https://img.shields.io/badge/next.js-000000.svg?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp
   </div>
    <br>
   <h3 align="center">📫 Contact 📫</h3>
