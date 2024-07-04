@@ -22,7 +22,7 @@
   <div align="center">
     <img src="https://img.shields.io/badge/springboot-6DB33F.svg?style=flat-square&logo=springboot&logoColor=white" />&nbsp
     <img src="https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp
-    <img src="https://img.shields.io/badge/apachejmeter-D22128?style=flat-square&logo=springboot&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/jmeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white" />&nbsp
   </div>
   
   <br> 
