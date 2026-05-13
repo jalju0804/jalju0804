@@ -17,14 +17,27 @@
 
 창업 동아리에서 시작한 Witt에서는 아이디어를 인터뷰와 미팅으로 다듬고, 실제 결제를 받아보고, 클레임을 받고, 다시 개선하는 과정을 겪었습니다. 이 과정에서 기획서 속 니즈와 실제 사용자가 돈을 내며 말해주는 니즈가 다르다는 점을 확인했습니다. 사용자의 신뢰는 멋진 기능보다 결제, 알림, 배포, 로그처럼 지루하지만 정확해야 하는 디테일에서 무너질 수 있다는 것도 직접 겪었습니다.
 
+## 경험
 
-| 경험 | 수행한 일 |
-| --- | --- |
-| [Aolda](https://github.com/orgs/Aolda) / ACC | OpenStack 기반 학생 클라우드 인프라와 ACC(Aolda Cloud Console)의 플랫폼 API 구조를 설계 |
-| OpenStack / Ceph | OpenStack/Ceph 기반 HA 구성, 백업·복구 시나리오, health check, quorum 검증 기준을 정리 |
-| Observability / Monitoring | 서비스와 인프라 상태를 확인하기 위한 메트릭, 로그, 대시보드, 알림 흐름을 구성 |
-| [Witt](https://witt.kr) / [Witt Store](https://store.witt.kr) | 창업팀 초기 제품에서 결제, 참여, 알림 흐름과 AWS/EKS 기반 배포 운영을 담당 |
-| AODS | GitHub, Kubernetes, 컨테이너 이미지, 검증 절차를 묶은 내부 배포 운영 플랫폼 MVP를 구현 |
+**[Aolda](https://github.com/orgs/Aolda) / ACC**  
+학생들이 직접 만들고 운영할 수 있는 학교 클라우드 인프라와 콘솔을 만들었습니다.  
+OpenStack API Adapter와 플랫폼 API 구조를 설계하고, ACC(Aolda Cloud Console)의 사용자 흐름을 정리했습니다.
+
+**OpenStack / Ceph**  
+OpenStack 기반 인프라에서 스토리지와 HA 운영 구조를 다뤘습니다.  
+Ceph 백업·복구 시나리오, health check, quorum 검증 기준을 정리했습니다.
+
+**Observability / Monitoring**  
+서비스와 인프라 상태를 운영자가 확인할 수 있도록 모니터링 흐름을 구성했습니다.  
+메트릭, 로그, 대시보드, 알림을 배포 안정성·장애 조사·인수인계에 활용했습니다.
+
+**[Witt](https://witt.kr) / [Witt Store](https://store.witt.kr)**  
+창업팀 초기 제품에서 실제 결제와 사용자 피드백이 있는 서비스를 운영했습니다.  
+결제, 참여, 알림 흐름을 다루고 AWS/EKS 기반 배포 운영을 담당했습니다.
+
+**AODS**  
+내부 배포 요청과 운영 확인을 하나의 흐름으로 묶는 배포 운영 플랫폼 MVP를 만들었습니다.  
+GitHub, Kubernetes, 컨테이너 이미지, 검증 절차를 연결해 배포 운영 루프를 구현했습니다.
 
 ## 자주 다뤄온 도구
 
