@@ -4,10 +4,8 @@
 
 운영되고, 복구되고, 다음 사람에게 이어질 수 있는 시스템에 관심이 있습니다.
 
-<a href="https://github.com/orgs/Aolda"><img src="https://img.shields.io/badge/Aolda-181717?style=flat-square&logo=github&logoColor=white" alt="Aolda" /></a>
-<a href="https://witt.kr"><img src="https://img.shields.io/badge/witt.kr-111827?style=flat-square" alt="witt.kr" /></a>
-<a href="https://store.witt.kr"><img src="https://img.shields.io/badge/store.witt.kr-374151?style=flat-square" alt="store.witt.kr" /></a>
 <a href="mailto:chanju0804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/chanju-lee-80abba260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 </div>
 
@@ -19,7 +17,6 @@
 
 창업 동아리에서 시작한 Witt에서는 아이디어를 인터뷰와 미팅으로 다듬고, 실제 결제를 받아보고, 클레임을 받고, 다시 개선하는 과정을 겪었습니다. 이 과정에서 기획서 속 니즈와 실제 사용자가 돈을 내며 말해주는 니즈가 다르다는 점을 확인했습니다. 사용자의 신뢰는 멋진 기능보다 결제, 알림, 배포, 로그처럼 지루하지만 정확해야 하는 디테일에서 무너질 수 있다는 것도 직접 겪었습니다.
 
-## 경험 한 줄 정리
 
 | 경험 | 수행한 일 |
 | --- | --- |
