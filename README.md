@@ -19,25 +19,11 @@
 
 ## 경험
 
-**[Aolda](https://github.com/orgs/Aolda) / ACC**  
-- 학생들이 직접 만들고 운영할 수 있는 학교 클라우드 콘솔을 만들었습니다.  
-- 협동·협업 방식을 정리하고 문서, API 컨벤션, 이슈 기반 작업 흐름을 맞추며 ACC(Aolda Cloud Console)의 플랫폼 API 구조를 설계했습니다.
-
-**OpenStack / Ceph**  
-- OpenStack 기반 인프라에서 스토리지와 HA 운영 구조를 다뤘습니다.  
-- Ceph 백업·복구 시나리오, health check, quorum 검증 기준을 정리했습니다.
-
-**Observability / Monitoring**  
-- 서비스와 인프라 상태를 운영자가 빠르게 확인할 수 있도록 모니터링 흐름을 구성했습니다.  
-- 메트릭, 로그, 대시보드, 알림을 통해 에러 감지와 원인 파악에 걸리는 시간을 줄이는 데 집중했습니다.
-
-**[Witt](https://witt.kr) / [Witt Store](https://store.witt.kr)**  
-- 창업팀 초기 제품에서 실제 결제와 사용자 피드백이 있는 서비스를 운영했습니다.  
-- 결제, 참여, 알림 흐름을 다루고 AWS/EKS 기반 배포 운영을 담당했습니다.
-
-**AODS**  
-- 내부 배포 요청과 운영 확인을 하나의 흐름으로 묶는 배포 운영 플랫폼 MVP를 만들었습니다.  
-- GitHub, Kubernetes, 컨테이너 이미지, 검증 절차를 연결해 배포 운영 루프를 구현했습니다.
+- [Aolda](https://github.com/orgs/Aolda) / ACC : 학교 클라우드 콘솔 및 플랫폼 API 설계 (2025.04 ~ 2026.02)
+- OpenStack / Ceph : OpenStack 기반 인프라, Ceph 백업·복구, HA 운영 기준 정리
+- Observability / Monitoring : 메트릭·로그·대시보드·알림 기반 에러 감지 및 원인 파악 시간 최소화
+- [Witt](https://witt.kr) / [Witt Store](https://store.witt.kr) : 창업팀 초기 제품의 결제·참여·알림 흐름 및 AWS/EKS 기반 배포 운영 (2024.09 ~)
+- AODS : GitHub, Kubernetes, 컨테이너 이미지, 검증 절차를 연결한 내부 배포 운영 플랫폼 MVP (2026.04)
 
 ## 자주 다뤄온 도구
 
