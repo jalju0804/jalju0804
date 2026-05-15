@@ -22,7 +22,7 @@
 - [Aolda](https://github.com/orgs/Aolda) / ACC : 학교 클라우드 콘솔 및 플랫폼 API 설계 (2025.04 ~ 2026.02)
 - OpenStack / Ceph : OpenStack 기반 인프라, Ceph 백업·복구, HA 운영 기준 정리
 - Observability / Monitoring : 메트릭·로그·대시보드·알림 기반 에러 감지 및 원인 파악 시간 최소화
-- [Witt](https://witt.kr) / [Witt Store](https://store.witt.kr) : 창업팀 초기 제품의 결제·참여·알림 흐름 및 AWS/EKS 기반 배포 운영 (2024.09 ~)
+- [Witt](https://witt.kr) / [Witt Store](https://store.witt.kr) : 창업팀 초기 제품의 결제·참여·알림 흐름 및 AWS/EKS 기반 배포 운영 (2025.01 ~ 2025.12)
 - AODS : GitHub, Kubernetes, 컨테이너 이미지, 검증 절차를 연결한 내부 배포 운영 플랫폼 MVP (2026.04)
 
 ## 자주 다뤄온 도구
