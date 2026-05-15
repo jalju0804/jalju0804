@@ -2,7 +2,7 @@
 
 # 이찬주
 
-운영되고, 복구되고, 다음 사람에게 이어질 수 있는 시스템에 관심이 있습니다.
+운영되고, 신뢰성있고, 다음 사람에게 이어질 수 있는 시스템에 관심이 있습니다.
 
 <a href="mailto:chanju0804@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/chanju-lee-80abba260/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
